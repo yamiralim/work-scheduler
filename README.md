@@ -11,7 +11,7 @@ The following animation demonstrates functionality:
 
 ### Live Application Link
 
-* This [link](https://) connects you to the live application.
+* This [link](https://yamiralim.github.io/work-scheduler/) connects you to the live application.
 
 ## Contact Information
 
